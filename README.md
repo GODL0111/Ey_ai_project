@@ -70,4 +70,5 @@ This project demonstrates an agentive AI system that helps customers apply for p
 
 - CRM API: Provides customer information and KYC verification
 - Credit Bureau API: Provides credit scores and history
+
 - Offer API: Provides pre-approved loan offers
