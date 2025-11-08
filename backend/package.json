@@ -1,0 +1,32 @@
+{
+  "name": "agentive-ai-loan-assistant-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the Agentive AI Loan Assistant",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "agentive-ai",
+    "loan",
+    "api",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "axios": "^1.4.0",
+    "multer": "^1.4.5-lts.1",
+    "pdfkit": "^0.13.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
